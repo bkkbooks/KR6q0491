@@ -21,13 +21,13 @@ editions:
 - short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0491_000.yaml, hash: 'sha256:997c620efcd3fc21a5fc2061d8760bccd562e01e8a0121cae8ff554afea6592d'}
+  - {seq: 0, filename: KR6q0491_000.yaml, hash: 'sha256:d3536554947c4c6a09457fcc63cfdf893b3a2e43584a8603e85f5346b0f6c935'}
   - {seq: 1, filename: KR6q0491_001.yaml, hash: 'sha256:041bb4f7a496fa4af12f774e0279e2888a8a0116678da65ca94071f1161c1de5'}
   - {seq: 2, filename: KR6q0491_002.yaml, hash: 'sha256:1861ba9e9bc9b1f3ecedcb5ca3c8328930c141a3e223ecb8ba38677973fc30e8'}
   - {seq: 3, filename: KR6q0491_003.yaml, hash: 'sha256:88614d9b40587362c119e2852353d96eb69061020d28393337d29b340192d7eb'}
   - {seq: 4, filename: KR6q0491_004.yaml, hash: 'sha256:b1414ca4e4ce73f231e634db6e296b9993106eab1e78f31640991a60446c5403'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0491_000.markers.yaml, hash: 'sha256:990f8ea016497418d071466bbb228cedff5719a9dbc2fda4a8466c474257293a'}
+  - {seq: 0, role: markers, filename: assets/KR6q0491_000.markers.yaml, hash: 'sha256:832c216f00797d455f8e2b7d3c31ca78a34626ea0960ec18e2c3233c3281972b'}
   - {seq: 1, role: markers, filename: assets/KR6q0491_001.markers.yaml, hash: 'sha256:9fc9fe3998b7a05d4148930828cd8c49751f77a27839576f7103c142c41b7746'}
   - {seq: 2, role: markers, filename: assets/KR6q0491_002.markers.yaml, hash: 'sha256:058622489e4da7e850e3cafebfabb1ac554e79d02a5e8badd38b38d5938b8bea'}
   - {seq: 3, role: markers, filename: assets/KR6q0491_003.markers.yaml, hash: 'sha256:cc97f7c078858f8332c6a1dd25d5271462c31153997b43d7ba62af5d88256ded'}
@@ -37,7 +37,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0491_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 像
@@ -47,7 +47,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0491_J_000-mulu-2
     span:
-    - front
+    - body
     - 21
     - 21
   label: 序
@@ -57,7 +57,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0491_J_000-mulu-3
     span:
-    - front
+    - body
     - 21
     - 21
   label: 羅真性序
@@ -67,7 +67,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0491_J_000-mulu-4
     span:
-    - front
+    - body
     - 302
     - 302
   label: 序
@@ -77,7 +77,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0491_J_000-mulu-5
     span:
-    - front
+    - body
     - 310
     - 310
   label: 目次
@@ -87,7 +87,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0491_J_000-mulu-6
     span:
-    - front
+    - body
     - 354
     - 354
   label: 讚
@@ -97,7 +97,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0491_J_000-mulu-7
     span:
-    - front
+    - body
     - 354
     - 354
   label: 自題
@@ -107,7 +107,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0491_J_000-mulu-8
     span:
-    - front
+    - body
     - 398
     - 398
   label: 附刻金明師翁讚
@@ -117,7 +117,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0491_J_000-mulu-9
     span:
-    - front
+    - body
     - 435
     - 435
   label: 永正老和尚讚
@@ -127,7 +127,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0491_J_000-mulu-10
     span:
-    - front
+    - body
     - 512
     - 512
   label: 繼老和尚讚
@@ -137,7 +137,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0491_J_000-mulu-11
     span:
-    - front
+    - body
     - 566
     - 566
   label: 素巖和尚讚
@@ -147,7 +147,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0491_J_000-mulu-12
     span:
-    - front
+    - body
     - 616
     - 616
   label: 東崖和尚讚
@@ -157,7 +157,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0491_J_000-mulu-13
     span:
-    - front
+    - body
     - 654
     - 654
   label: 山容和尚讚
@@ -167,7 +167,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0491_J_000-mulu-14
     span:
-    - front
+    - body
     - 722
     - 722
   label: 自培尊宿讚
@@ -177,7 +177,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0491_J_000-mulu-15
     span:
-    - front
+    - body
     - 794
     - 794
   label: 傳
@@ -187,7 +187,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0491_J_000-mulu-16
     span:
-    - front
+    - body
     - 1637
     - 1637
   label: 金墅鎮文學檀越山主公啟
@@ -197,7 +197,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0491_J_000-mulu-17
     span:
-    - front
+    - body
     - 1978
     - 1978
   label: 蘇州闔郡大護法公啟
@@ -813,7 +813,7 @@ table_of_contents:
   label: 埋義犬語
   type: mulu
   level: 1
-hash: sha256:73e53197c2b7ae1fb55c0332368647dd015d11b23e44c367260ec6686a20232f
+hash: sha256:3899ac62e4fc053c2def5a082716c5bac2475151f71c08ccde5d4698613076ae
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
